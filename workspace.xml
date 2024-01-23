@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f3db7520-fd21-4f97-b133-fc77a020715f" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2atsmMjs2qbQIweYS2hkA6RwbDt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="TestNG.CallTests.testMethods2">
+    <configuration name="CallTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ProjectFinal2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CallTestsMethods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="CallTestsMethods" />
+      <option name="MAIN_CLASS_NAME" value="CallTestsMethods.CallTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CallTests.CallTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ProjectFinal2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CallTestsMethods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="CallTestsMethods" />
+      <option name="MAIN_CLASS_NAME" value="CallTestsMethods.CallTests" />
+      <option name="METHOD_NAME" value="CallTests" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CallTests.testMethods" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ProjectFinal2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CallTestsMethods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="CallTestsMethods" />
+      <option name="MAIN_CLASS_NAME" value="CallTestsMethods.CallTests" />
+      <option name="METHOD_NAME" value="testMethods" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CallTests.testMethods2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ProjectFinal2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CallTestsMethods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="CallTestsMethods" />
+      <option name="MAIN_CLASS_NAME" value="CallTestsMethods.CallTests" />
+      <option name="METHOD_NAME" value="testMethods2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginRegisterAuthors" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ProjectFinal2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SeleniumTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SeleniumTests" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumTests.LoginRegisterAuthors" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.CallTests.testMethods2" />
+        <item itemvalue="TestNG.CallTests.testMethods" />
+        <item itemvalue="TestNG.CallTests" />
+        <item itemvalue="TestNG.LoginRegisterAuthors" />
+        <item itemvalue="TestNG.CallTests.CallTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f3db7520-fd21-4f97-b133-fc77a020715f" name="Changes" comment="" />
+      <created>1705149370393</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705149370393</updated>
+    </task>
+    <servers />
+  </component>
+</project>
